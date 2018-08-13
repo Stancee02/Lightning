@@ -1,0 +1,64 @@
+body {
+	background-color: ##f5f5dc;
+}
+.asd {
+	text-align: center;
+}
+.asd:before {
+	content: "🍲"
+}
+.asd:after {
+    content: "🍲"
+}
+a {
+	text-decoration: none;
+	color: #f7f706;
+}
+a:hover {
+	color:red;
+}
+a:active {
+	color: black;
+}
+.dsa {
+	display: block;
+	background-color: #e8e6e6;
+	border-left: 3px solid orange;
+	font-size:15px;	
+	padding: 20px 160px 250px 20px;
+	color: black;
+}
+.sad {
+	display: inline;
+	float: right;
+	padding-right: 10px;
+	padding-top: 23px;
+	padding-bottom: 10px;
+}
+.das {
+	float: right;
+	padding-top: 10px;
+}
+table {
+	float: right;
+}
+.ewq{
+	padding-top: 10px;
+}
+.qaz{
+	display: block;
+	background-color: #e8e6e6;
+	border-left: 3px solid orange;
+	font-size:15px;	
+	padding: 20px 145px 250px 16px;
+	color: black;
+}
+.zaq {
+	float: right;
+}
+.qwe {
+	padding-top: 10px;
+}
+
+
+
